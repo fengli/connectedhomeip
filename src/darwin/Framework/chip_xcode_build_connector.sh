@@ -78,7 +78,7 @@ case $PLATFORM_PREFERRED_ARCH in
         target_cpu=x86
         ;;
     x86_64)
-        target_cpu=x64
+        target_cpu=x86_64
         ;;
     armv7)
         target_cpu=arm
